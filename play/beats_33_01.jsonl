@@ -226,3 +226,6 @@
 {"n":226,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Ward gate. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":227,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south escape. Bess keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
 {"n":228,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The lamp stays for the wipe."}
+{"n":229,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Kessler alley. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":230,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":231,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The lamp stays for the wipe."}
