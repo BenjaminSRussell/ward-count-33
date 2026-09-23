@@ -18,3 +18,6 @@
 {"n":18,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Mast yard. Nobody past the north curb. We win in 6 steps. Direct on the left lane, open."}
 {"n":19,"kind":"place","name":"Mast yard north curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north curb. Bess keeps the awning for the win. 7 steps, direct on the left lane, open."}
 {"n":20,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north curb. direct left open. 8 steps. The awning stays for the win."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Last Light. Nobody past the north curb. We win in 2 steps. Direct on the left lane, open."}
+{"n":22,"kind":"place","name":"Last Light north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north curb. Matt keeps the awning for the win. 3 steps, direct on the left lane, open."}
+{"n":23,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north curb. direct left open. 4 steps. The awning stays for the win."}
