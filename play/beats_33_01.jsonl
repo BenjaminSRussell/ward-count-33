@@ -676,3 +676,6 @@
 {"n":676,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Clinic roof. Nobody past the south escape. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":677,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof south escape. Nia keeps the rope for the wipe. 7 steps, direct on the left lane, open."}
 {"n":678,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south escape. direct left open. 8 steps. The rope stays for the wipe."}
+{"n":679,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at Clinic roof. Nobody past the south escape. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":680,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof south escape. Ivo keeps the rope for the wipe. 3 steps, direct on the left lane, open."}
+{"n":681,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south escape. direct left open. 4 steps. The rope stays for the wipe."}
