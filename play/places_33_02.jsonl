@@ -509,3 +509,6 @@
 {"n":509,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The radio coil stays for the wipe."}
 {"n":510,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the pier. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":511,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south escape. Bess keeps the radio coil for the wipe. 8 steps, direct on the left lane, open."}
+{"n":512,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. direct left open. 2 steps. The radio coil stays for the wipe."}
+{"n":513,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the south escape. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":514,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the radio coil for the wipe. 4 steps, direct on the left lane, open."}
