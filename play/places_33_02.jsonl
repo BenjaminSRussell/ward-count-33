@@ -554,3 +554,6 @@
 {"n":554,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south escape. direct left open. 2 steps. The radio coil stays for the wipe."}
 {"n":555,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at High line. Nobody past the south escape. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":556,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line south escape. Ivo keeps the radio coil for the wipe. 4 steps, direct on the left lane, open."}
+{"n":557,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. direct left open. 5 steps. The radio coil stays for the wipe."}
+{"n":558,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at High line. Nobody past the south escape. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":559,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south escape. Bess keeps the radio coil for the wipe. 7 steps, direct on the left lane, open."}
