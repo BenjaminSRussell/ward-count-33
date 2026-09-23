@@ -628,3 +628,6 @@
 {"n":628,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south escape. direct left open. 8 steps. The plywood stays for the wipe."}
 {"n":629,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Last Light. Nobody past the south escape. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":630,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light south escape. Matt keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
+{"n":631,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south escape. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":632,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Last Light. Nobody past the south escape. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":633,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light south escape. Nia keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
