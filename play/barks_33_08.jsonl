@@ -748,3 +748,6 @@
 {"n":748,"kind":"place","name":"Switchyard south curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south curb. Ivo keeps the plywood for the win. 8 steps, direct on the left lane, open."}
 {"n":749,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south curb. direct left open. 2 steps. The plywood stays for the win."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Switchyard. Nobody past the south curb. We win in 3 steps. Direct on the left lane, open."}
+{"n":751,"kind":"place","name":"Switchyard south curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south curb. Bess keeps the plywood for the win. 4 steps, direct on the left lane, open."}
+{"n":752,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south curb. direct left open. 5 steps. The plywood stays for the win."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Drydock. Nobody past the south curb. We win in 6 steps. Direct on the left lane, open."}
