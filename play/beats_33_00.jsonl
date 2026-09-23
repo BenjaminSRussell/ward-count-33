@@ -848,3 +848,6 @@
 {"n":848,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at Switchyard. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":849,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard south escape. Nia keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
 {"n":850,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south escape. direct left open. 6 steps. The hydrant stays for the wipe."}
+{"n":851,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Switchyard. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":852,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard south escape. Ivo keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":853,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south escape. direct left open. 2 steps. The hydrant stays for the wipe."}
