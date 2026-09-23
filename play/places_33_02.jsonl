@@ -173,3 +173,6 @@
 {"n":173,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The drum stays for the wipe."}
 {"n":174,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at the pier. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":175,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south escape. Bess keeps the drum for the wipe. 8 steps, direct on the left lane, open."}
+{"n":176,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. direct left open. 2 steps. The drum stays for the wipe."}
+{"n":177,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Clinic roof. Nobody past the south escape. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":178,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the drum for the wipe. 4 steps, direct on the left lane, open."}
