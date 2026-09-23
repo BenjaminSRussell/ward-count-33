@@ -789,3 +789,6 @@
 {"n":789,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south escape. direct left open. 7 steps. The shutter stays for the wipe."}
 {"n":790,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the Underpass. Nobody past the south escape. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":791,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass south escape. Bess keeps the shutter for the wipe. 2 steps, direct on the left lane, open."}
+{"n":792,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south escape. direct left open. 3 steps. The shutter stays for the wipe."}
+{"n":793,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Mast yard. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":794,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard south escape. Matt keeps the shutter for the wipe. 5 steps, direct on the left lane, open."}
