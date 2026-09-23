@@ -311,3 +311,6 @@
 {"n":311,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light south escape. Bess keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
 {"n":312,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south escape. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":313,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at South stair. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":314,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair south escape. Matt keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":315,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south escape. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":316,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at South stair. Nobody past the south escape. We wipe in 3 steps. Direct on the left lane, open."}
