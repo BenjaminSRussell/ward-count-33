@@ -899,3 +899,6 @@
 {"n":899,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south escape. Bess keeps the awning for the wipe. 5 steps, direct on the left lane, open."}
 {"n":900,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The awning stays for the wipe."}
 {"n":901,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Kessler alley. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":902,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
+{"n":903,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The awning stays for the wipe."}
+{"n":904,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at Kessler alley. Nobody past the south escape. We wipe in 3 steps. Direct on the left lane, open."}
