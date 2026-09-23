@@ -152,3 +152,6 @@
 {"n":152,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south escape. Ivo keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
 {"n":153,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south escape. direct left open. 8 steps. The crate stays for the wipe."}
 {"n":154,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at South stair. Nobody past the south escape. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":155,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south escape. Bess keeps the crate for the wipe. 3 steps, direct on the left lane, open."}
+{"n":156,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. direct left open. 4 steps. The crate stays for the wipe."}
+{"n":157,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at the pier. Nobody past the south escape. We wipe in 5 steps. Direct on the left lane, open."}
