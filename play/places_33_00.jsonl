@@ -388,3 +388,6 @@
 {"n":388,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. direct left open. 6 steps. The radio coil stays for the wipe."}
 {"n":389,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the north escape. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":390,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the radio coil for the wipe. 8 steps, direct on the left lane, open."}
+{"n":391,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. direct left open. 2 steps. The radio coil stays for the wipe."}
+{"n":392,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the north escape. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":393,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the radio coil for the wipe. 4 steps, direct on the left lane, open."}
