@@ -561,3 +561,6 @@
 {"n":561,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south escape. direct left open. 3 steps. The rope stays for the wipe."}
 {"n":562,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Ward gate. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":563,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate south escape. Bess keeps the rope for the wipe. 5 steps, direct on the left lane, open."}
+{"n":564,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The rope stays for the wipe."}
+{"n":565,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Kessler alley. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":566,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the rope for the wipe. 8 steps, direct on the left lane, open."}
