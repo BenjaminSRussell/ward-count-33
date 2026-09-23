@@ -252,3 +252,6 @@
 {"n":252,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the badge door for the wipe. 3 steps, direct on the left lane, open."}
 {"n":253,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. direct left open. 4 steps. The badge door stays for the wipe."}
 {"n":254,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the north escape. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":255,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence north escape. Bess keeps the badge door for the wipe. 6 steps, direct on the left lane, open."}
+{"n":256,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north escape. direct left open. 7 steps. The badge door stays for the wipe."}
+{"n":257,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Mall court. Nobody past the north escape. We wipe in 8 steps. Direct on the left lane, open."}
