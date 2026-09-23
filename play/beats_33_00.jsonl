@@ -827,3 +827,6 @@
 {"n":827,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at the pier. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":828,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier south escape. Ivo keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
 {"n":829,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The hydrant stays for the wipe."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at the pier. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":831,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south escape. Bess keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":832,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. direct left open. 2 steps. The hydrant stays for the wipe."}
