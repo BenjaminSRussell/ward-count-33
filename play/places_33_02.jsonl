@@ -140,3 +140,6 @@
 {"n":140,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south escape. direct left open. 8 steps. The drum stays for the wipe."}
 {"n":141,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Last Light. Nobody past the south escape. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":142,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light south escape. Matt keeps the drum for the wipe. 3 steps, direct on the left lane, open."}
+{"n":143,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south escape. direct left open. 4 steps. The drum stays for the wipe."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Last Light. Nobody past the south escape. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":145,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light south escape. Nia keeps the drum for the wipe. 6 steps, direct on the left lane, open."}
