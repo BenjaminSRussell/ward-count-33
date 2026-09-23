@@ -302,3 +302,6 @@
 {"n":302,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Last Light. Nobody past the north escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":303,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light north escape. Bess keeps the badge door for the wipe. 5 steps, direct on the left lane, open."}
 {"n":304,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north escape. direct left open. 6 steps. The badge door stays for the wipe."}
+{"n":305,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at South stair. Nobody past the north escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":306,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair north escape. Matt keeps the badge door for the wipe. 8 steps, direct on the left lane, open."}
+{"n":307,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north escape. direct left open. 2 steps. The badge door stays for the wipe."}
