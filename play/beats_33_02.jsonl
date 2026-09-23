@@ -399,3 +399,6 @@
 {"n":399,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Ward gate. Nobody past the south escape. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":400,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate south escape. Ivo keeps the radio coil for the wipe. 2 steps, direct on the left lane, open."}
 {"n":401,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south escape. direct left open. 3 steps. The radio coil stays for the wipe."}
+{"n":402,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Ward gate. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":403,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate south escape. Bess keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
+{"n":404,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The radio coil stays for the wipe."}
