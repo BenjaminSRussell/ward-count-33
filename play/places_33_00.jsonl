@@ -880,3 +880,6 @@
 {"n":880,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. direct left open. 8 steps. The hydrant stays for the wipe."}
 {"n":881,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Ward gate. Nobody past the south escape. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":882,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south escape. Matt keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
+{"n":883,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south escape. direct left open. 4 steps. The barrel stays for the wipe."}
+{"n":884,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Ward gate. Nobody past the south escape. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":885,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate south escape. Nia keeps the barrel for the wipe. 6 steps, direct on the left lane, open."}
