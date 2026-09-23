@@ -435,3 +435,6 @@
 {"n":435,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate east curb. Bess keeps the radio coil for the win. 5 steps, direct on the left lane, open."}
 {"n":436,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east curb. direct left open. 6 steps. The radio coil stays for the win."}
 {"n":437,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the east curb. We win in 7 steps. Direct on the left lane, open."}
+{"n":438,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley east curb. Matt keeps the radio coil for the win. 8 steps, direct on the left lane, open."}
+{"n":439,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east curb. direct left open. 2 steps. The radio coil stays for the win."}
+{"n":440,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the east curb. We win in 3 steps. Direct on the left lane, open."}
