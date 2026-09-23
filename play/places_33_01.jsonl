@@ -504,3 +504,6 @@
 {"n":504,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. direct left open. 2 steps. The rebar stays for the wipe."}
 {"n":505,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Clinic roof. Nobody past the south escape. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":506,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the rebar for the wipe. 4 steps, direct on the left lane, open."}
+{"n":507,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south escape. direct left open. 5 steps. The rebar stays for the wipe."}
+{"n":508,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Clinic roof. Nobody past the south escape. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":509,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof south escape. Nia keeps the rebar for the wipe. 7 steps, direct on the left lane, open."}
