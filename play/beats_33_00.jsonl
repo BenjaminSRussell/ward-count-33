@@ -992,3 +992,6 @@
 {"n":992,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at the pier. Nobody past the south escape. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":993,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south escape. Nia keeps the barrel for the wipe. 2 steps, direct on the left lane, open."}
 {"n":994,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The barrel stays for the wipe."}
+{"n":995,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at the pier. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":996,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier south escape. Ivo keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
+{"n":997,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The barrel stays for the wipe."}
