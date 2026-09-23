@@ -145,3 +145,6 @@
 {"n":145,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north escape. direct left open. 8 steps. The drum stays for the wipe."}
 {"n":146,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at South stair. Nobody past the north escape. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":147,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair north escape. Bess keeps the drum for the wipe. 3 steps, direct on the left lane, open."}
+{"n":148,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north escape. direct left open. 4 steps. The drum stays for the wipe."}
+{"n":149,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the pier. Nobody past the north escape. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":150,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier north escape. Matt keeps the drum for the wipe. 6 steps, direct on the left lane, open."}
