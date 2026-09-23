@@ -161,3 +161,6 @@
 {"n":161,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier south escape. Nia keeps the crate for the wipe. 2 steps, direct on the left lane, open."}
 {"n":162,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The crate stays for the wipe."}
 {"n":163,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at the pier. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":164,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier south escape. Ivo keeps the crate for the wipe. 5 steps, direct on the left lane, open."}
+{"n":165,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The crate stays for the wipe."}
+{"n":166,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at the pier. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
