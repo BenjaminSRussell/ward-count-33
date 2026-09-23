@@ -793,3 +793,6 @@
 {"n":793,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Mast yard. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":794,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard south escape. Matt keeps the shutter for the wipe. 5 steps, direct on the left lane, open."}
 {"n":795,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south escape. direct left open. 6 steps. The shutter stays for the wipe."}
+{"n":796,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Mast yard. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":797,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard south escape. Nia keeps the shutter for the wipe. 8 steps, direct on the left lane, open."}
+{"n":798,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south escape. direct left open. 2 steps. The shutter stays for the wipe."}
