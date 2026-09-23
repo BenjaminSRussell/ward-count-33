@@ -579,3 +579,6 @@
 {"n":579,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. direct left open. 7 steps. The rope stays for the wipe."}
 {"n":580,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at the Lot. Nobody past the south escape. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":581,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot south escape. Nia keeps the rope for the wipe. 2 steps, direct on the left lane, open."}
+{"n":582,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south escape. direct left open. 3 steps. The rope stays for the wipe."}
+{"n":583,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at the Lot. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":584,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the rope for the wipe. 5 steps, direct on the left lane, open."}
