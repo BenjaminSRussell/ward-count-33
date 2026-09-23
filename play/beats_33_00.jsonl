@@ -227,3 +227,6 @@
 {"n":227,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Kessler alley. Nobody past the north escape. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":228,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the badge door for the wipe. 7 steps, direct on the left lane, open."}
 {"n":229,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. direct left open. 8 steps. The badge door stays for the wipe."}
+{"n":230,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Kessler alley. Nobody past the north escape. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":231,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the badge door for the wipe. 3 steps, direct on the left lane, open."}
+{"n":232,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. direct left open. 4 steps. The badge door stays for the wipe."}
