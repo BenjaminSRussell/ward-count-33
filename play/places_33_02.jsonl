@@ -80,3 +80,6 @@
 {"n":80,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south escape. direct left open. 4 steps. The drum stays for the wipe."}
 {"n":81,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Lot. Nobody past the south escape. We wipe in 5 steps. Direct on the left lane, open."}
 {"n":82,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south escape. Matt keeps the drum for the wipe. 6 steps, direct on the left lane, open."}
+{"n":83,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. direct left open. 7 steps. The drum stays for the wipe."}
+{"n":84,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at the Lot. Nobody past the south escape. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":85,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot south escape. Nia keeps the drum for the wipe. 2 steps, direct on the left lane, open."}
