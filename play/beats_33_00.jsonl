@@ -701,3 +701,6 @@
 {"n":701,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at High line. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":702,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south escape. Matt keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
 {"n":703,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south escape. direct left open. 6 steps. The plywood stays for the wipe."}
+{"n":704,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at High line. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":705,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south escape. Nia keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
+{"n":706,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south escape. direct left open. 2 steps. The plywood stays for the wipe."}
