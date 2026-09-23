@@ -414,3 +414,6 @@
 {"n":414,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at High line. Nobody past the east curb. We win in 6 steps. Direct on the left lane, open."}
 {"n":415,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east curb. Bess keeps the lamp for the win. 7 steps, direct on the left lane, open."}
 {"n":416,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east curb. direct left open. 8 steps. The lamp stays for the win."}
+{"n":417,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at Ward gate. Nobody past the east curb. We win in 2 steps. Direct on the left lane, open."}
+{"n":418,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east curb. Matt keeps the rebar for the win. 3 steps, direct on the left lane, open."}
+{"n":419,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east curb. direct left open. 4 steps. The rebar stays for the win."}
