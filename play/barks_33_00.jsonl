@@ -60,3 +60,6 @@
 {"n":60,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the drum for the wipe. 7 steps, direct on the left lane, open."}
 {"n":61,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. direct left open. 8 steps. The drum stays for the wipe."}
 {"n":62,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Kessler alley. Nobody past the north escape. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":63,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the drum for the wipe. 3 steps, direct on the left lane, open."}
+{"n":64,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. direct left open. 4 steps. The drum stays for the wipe."}
+{"n":65,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Lot. Nobody past the north escape. We wipe in 5 steps. Direct on the left lane, open."}
