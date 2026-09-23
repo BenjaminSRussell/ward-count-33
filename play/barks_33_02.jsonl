@@ -169,3 +169,6 @@
 {"n":169,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier south escape. Nia keeps the drum for the wipe. 2 steps, direct on the left lane, open."}
 {"n":170,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. direct left open. 3 steps. The drum stays for the wipe."}
 {"n":171,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the drum at the pier. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":172,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier south escape. Ivo keeps the drum for the wipe. 5 steps, direct on the left lane, open."}
+{"n":173,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. direct left open. 6 steps. The drum stays for the wipe."}
+{"n":174,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at the pier. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
