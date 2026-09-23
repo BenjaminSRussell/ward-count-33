@@ -986,3 +986,6 @@
 {"n":986,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mall court. Nobody past the north curb. We win in 3 steps. Direct on the left lane, open."}
 {"n":987,"kind":"place","name":"Mall court north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north curb. Bess keeps the barrel for the win. 4 steps, direct on the left lane, open."}
 {"n":988,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north curb. direct left open. 5 steps. The barrel stays for the win."}
+{"n":989,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at the Underpass. Nobody past the north curb. We win in 6 steps. Direct on the left lane, open."}
+{"n":990,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass north curb. Matt keeps the barrel for the win. 7 steps, direct on the left lane, open."}
+{"n":991,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north curb. direct left open. 8 steps. The barrel stays for the win."}
