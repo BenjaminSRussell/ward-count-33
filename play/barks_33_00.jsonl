@@ -399,3 +399,6 @@
 {"n":399,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the radio coil for the wipe. 3 steps, direct on the left lane, open."}
 {"n":400,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. direct left open. 4 steps. The radio coil stays for the wipe."}
 {"n":401,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the Lot. Nobody past the north escape. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":402,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot north escape. Matt keeps the radio coil for the wipe. 6 steps, direct on the left lane, open."}
+{"n":403,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north escape. direct left open. 7 steps. The radio coil stays for the wipe."}
+{"n":404,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at the Lot. Nobody past the north escape. We wipe in 8 steps. Direct on the left lane, open."}
