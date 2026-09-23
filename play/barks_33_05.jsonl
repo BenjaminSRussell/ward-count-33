@@ -616,3 +616,6 @@
 {"n":616,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot east curb. Ivo keeps the rope for the win. 5 steps, direct on the left lane, open."}
 {"n":617,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east curb. direct left open. 6 steps. The rope stays for the win."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at the Lot. Nobody past the east curb. We win in 7 steps. Direct on the left lane, open."}
+{"n":619,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east curb. Bess keeps the rope for the win. 8 steps, direct on the left lane, open."}
+{"n":620,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east curb. direct left open. 2 steps. The rope stays for the win."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Stockyard fence. Nobody past the east curb. We win in 3 steps. Direct on the left lane, open."}
