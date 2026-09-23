@@ -233,3 +233,6 @@
 {"n":233,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south escape. direct left open. 3 steps. The badge door stays for the wipe."}
 {"n":234,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Ward gate. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":235,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate south escape. Bess keeps the badge door for the wipe. 5 steps, direct on the left lane, open."}
+{"n":236,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The badge door stays for the wipe."}
+{"n":237,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Kessler alley. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":238,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the badge door for the wipe. 8 steps, direct on the left lane, open."}
