@@ -93,3 +93,6 @@
 {"n":93,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate east curb. Nia keeps the drum for the win. 6 steps, direct on the left lane, open."}
 {"n":94,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east curb. direct left open. 7 steps. The drum stays for the win."}
 {"n":95,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Ward gate. Nobody past the east curb. We win in 8 steps. Direct on the left lane, open."}
+{"n":96,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate east curb. Ivo keeps the drum for the win. 2 steps, direct on the left lane, open."}
+{"n":97,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east curb. direct left open. 3 steps. The drum stays for the win."}
+{"n":98,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Ward gate. Nobody past the east curb. We win in 4 steps. Direct on the left lane, open."}
