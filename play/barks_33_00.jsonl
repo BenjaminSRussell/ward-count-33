@@ -276,3 +276,6 @@
 {"n":276,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the badge door for the wipe. 6 steps, direct on the left lane, open."}
 {"n":277,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north escape. direct left open. 7 steps. The badge door stays for the wipe."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at the Underpass. Nobody past the north escape. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":279,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass north escape. Bess keeps the badge door for the wipe. 2 steps, direct on the left lane, open."}
+{"n":280,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north escape. direct left open. 3 steps. The badge door stays for the wipe."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Mast yard. Nobody past the north escape. We wipe in 4 steps. Direct on the left lane, open."}
