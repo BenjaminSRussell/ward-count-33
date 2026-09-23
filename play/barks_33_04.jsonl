@@ -494,3 +494,6 @@
 {"n":494,"kind":"place","name":"Last Light west curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light west curb. Matt keeps the radio coil for the win. 3 steps, direct on the left lane, open."}
 {"n":495,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west curb. direct left open. 4 steps. The radio coil stays for the win."}
 {"n":496,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Last Light. Nobody past the west curb. We win in 5 steps. Direct on the left lane, open."}
+{"n":497,"kind":"place","name":"Last Light west curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light west curb. Nia keeps the radio coil for the win. 6 steps, direct on the left lane, open."}
+{"n":498,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west curb. direct left open. 7 steps. The radio coil stays for the win."}
+{"n":499,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Last Light. Nobody past the west curb. We win in 8 steps. Direct on the left lane, open."}
