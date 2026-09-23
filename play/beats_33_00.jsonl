@@ -554,3 +554,6 @@
 {"n":554,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Ward gate. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":555,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate south escape. Bess keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
 {"n":556,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The plywood stays for the wipe."}
+{"n":557,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Kessler alley. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":558,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
+{"n":559,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The plywood stays for the wipe."}
