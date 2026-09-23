@@ -827,3 +827,6 @@
 {"n":827,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at the Underpass. Nobody past the north curb. We win in 5 steps. Direct on the left lane, open."}
 {"n":828,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass north curb. Ivo keeps the hydrant for the win. 6 steps, direct on the left lane, open."}
 {"n":829,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north curb. direct left open. 7 steps. The hydrant stays for the win."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at the Underpass. Nobody past the north curb. We win in 8 steps. Direct on the left lane, open."}
+{"n":831,"kind":"place","name":"the Underpass north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass north curb. Bess keeps the hydrant for the win. 2 steps, direct on the left lane, open."}
+{"n":832,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north curb. direct left open. 3 steps. The hydrant stays for the win."}
