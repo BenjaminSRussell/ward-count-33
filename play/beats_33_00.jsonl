@@ -869,3 +869,6 @@
 {"n":869,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at High line. Nobody past the south escape. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":870,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line south escape. Matt keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
 {"n":871,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south escape. direct left open. 6 steps. The hydrant stays for the wipe."}
+{"n":872,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at High line. Nobody past the south escape. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":873,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line south escape. Nia keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":874,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south escape. direct left open. 2 steps. The hydrant stays for the wipe."}
